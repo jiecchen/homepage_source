@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title><![CDATA[My Octopress Blog]]></title>
+	<link href="http://xmerge.me/atom.xml" rel="self"/>
+	<link href="http://xmerge.me/"/>
+	<updated>2015-10-23T02:19:46-04:00</updated>
+	<id>http://xmerge.me/</id>
+	<author>
+		<name><![CDATA[Your Name]]></name>
+		
+	</author>
+	<generator uri="http://octopress.org/">Octopress</generator>
+
+	
+	<entry>
+		
+			<title type="html"><![CDATA[CSCI B503 Algorithm Design and Analysis]]></title>
+		
+		<link href="http://xmerge.me/blog/2014/10/25/teaching-b503/"/>
+		<updated>2014-10-25T15:31:25-04:00</updated>
+		<id>http://xmerge.me/blog/2014/10/25/teaching-b503</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>I am the associated instructor (generally known as TA) for <em>CSCI B503 Algorithm Design and Analysis</em>, instructed by professor Funda Ergun. Course page can be found <a href="http://homes.soic.indiana.edu/fergun/TEACHING/FA14/503.html">here</a>.</p>
+
+<p>This course intends to be a graduate level course but is relatively easy compared with the algorithm course I took when I was an undergrad.</p>
+
+<p>Homework assignments and the solutions I compiled for this course will be posed in this page.</p>
+
+<h2>Assignments and Solutions</h2>
+
+<ul>
+<li><a href="http://xmerge.me/resources/B503/hw1.pdf">Assignment 1</a>, <a href="http://xmerge.me/resources/B503/solution_1.pdf">Solution</a></li>
+<li><a href="http://xmerge.me/resources/B503/hw2.pdf">Assignment 2</a>, <a href="http://xmerge.me/resources/B503/solution_2.pdf">Solution</a></li>
+<li><a href="http://xmerge.me/resources/B503/hw3.pdf">Assignment 3</a>, <a href="http://xmerge.me/resources/B503/solution_3.pdf">Solution</a></li>
+<li><a href="http://xmerge.me/resources/B503/hw4.pdf">Assignment 4</a>, <a href="http://xmerge.me/resources/B503/solution_4.pdf">Solution</a></li>
+</ul>
+
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[23]]></title>
+		
+		<link href="http://xmerge.me/blog/2014/09/26/23/"/>
+		<updated>2014-09-26T01:46:03-04:00</updated>
+		<id>http://xmerge.me/blog/2014/09/26/23</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>居然已经二十三岁了.</p>
+
+<p>一事无成, 想来真是悲哀.</p>
+
+<p>不过, 和所谓成事呢?</p>
+
+<p>年岁非徒增, 却也算管窥过存于想象的人事物,</p>
+
+<p>但, 不过如此.</p>
+
+<p>人生在世, 不过是为了排解无聊.</p>
+
+<p>且不说逐金纵欲攀爬权利高塔之人,</p>
+
+<p>就那些行善的, 献身科研的, 乃至救赎人类的,</p>
+
+<p>原动力难道不是对无聊的生命的惧怕?</p>
+
+<p>终极的成功不过是无需有负罪感的随心所欲,</p>
+
+<p>以千奇百怪的姿态出现,</p>
+
+<p>譬如庸人嘴里"悲琐"的松子,</p>
+
+<p>譬如淫人妻女的&lt;青鸟>中的车站站员,</p>
+
+<p>或是如浮萍般漂流人间的银古.</p>
+
+<p>固为冠冕堂皇者所鄙,</p>
+
+<p>却是至真至烂漫的生命的形态,</p>
+
+<p>虽不能至, 心向往之.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[一个梦]]></title>
+		
+		<link href="http://xmerge.me/blog/2014/09/24/a-dream/"/>
+		<updated>2014-09-24T09:03:24-04:00</updated>
+		<id>http://xmerge.me/blog/2014/09/24/a-dream</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>居然梦到青青了, 不是小松鼠也不是小 A, 居然是青青. 难道是欲有回想, 才念念不能忘? 但是仿佛我已经忘记她很多年了.</p>
+
+<p>梦里满满的是对她的愧疚. 梦里的形象, 比我记忆里的她成熟和稳重了不少, 但依然是那样敢想敢做, 依然不在乎他人琐碎的看法.</p>
+
+<p>这样的女性形象, 像谁呢? 哦, 是松子! 她现今过得如何呢? 愿如松子般绚烂, 但, 莫如她般凄苦.</p>
+
+<p>看起来我还是喜欢这种敢爱敢恨, 不拘一格的女孩子啊, 还有, 声音一定要好听.</p>
+
+<p>不骚了, 停笔搬砖头.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Mathematica Programming-An Advanced Introduction]]></title>
+		
+		<link href="http://xmerge.me/blog/2014/08/19/mma-advanced/"/>
+		<updated>2014-08-19T17:57:53-04:00</updated>
+		<id>http://xmerge.me/blog/2014/08/19/mma-advanced</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<ul>
+<li>list element with functor item
+{:toc}</li>
+</ul>
+
+
+<h1>Mathematica 编程：高级导论</h1>
+
+<p>本书的英文版 <a href="http://www.mathprogramming-intro.org/">Mathematica programming: an advanced introduction</a>, by Leonid Shifrin</p>
+
+<h2>序言</h2>
+
+<h2>简介</h2>
+
+<h2>基本操作</h2>
+
+<h2>表</h2>
+
+<h2>规则, 模式和函数</h2>
+
+<h2>表处理函数与函数式编程</h2>
+
+<h3>介绍</h3>
+
+<p>所谓的"函数式编程", 是这样一种编程范式: 扮演核心角色的, 是函数对数据或者其他函数的作用. 函数本身也被当作是数据的一种, 从而可以作为其他函数的额参被使用. 考虑到任意的数据结构都可以利用<code>表</code>来构造, 所以函数式编程的主要内容就是关于函数对<code>表</code>的作用.</p>
+
+<p><code>Mathematica</code> 中的函数式编程, 和其他的一些语言(比如 lisp) 中的函数式编程有一些显著的区别. 比如说, <code>表</code>的递归表示, 在<code>Mathematica</code> 中并如其他函数式语言中的表那么高效, 因为本质上, <code>Mathematica</code> 的<code>表</code>是用链表来实现的. 另一个重要的区别, 则是由<code>Mathematica</code>的<code>规则</code>导致的, 要看到这一点, 请读者回忆,<code>Mathematica</code> 中的函数定义实际上是基于模式匹配规则替换的, 而计算过程本身由是全局<code>规则库</code>所控制的表达式重写的过程.</p>
+
+<p>除了简约紧凑,函数式编程的风格同常还是在<code>Mathematica</code>中最高效的表达方式. 此外, 尽管我们不会在本章论及, 但还是值得在这里让读者知道, 函数式的技巧不仅可以作用到<code>表</code>上,还可以作用到一般的表达式中. 随着理解的深入, 读者将会看到这是一个强有力的语言特性.</p>
+
+<p>简单地说一下本章所扮演的角色. 毫不夸张地说, 本章是本书所有章节中最核心的一章, 这是因为, 本章介绍了新的编程风格和信条, 而这种风格和信条不单单在我们此后的内容里反复出现,它实际上帮助将你的<code>Mathematica</code>编程水平提升到一个新的档次 &ndash; 不仅仅是技巧上的, 而是改变整个思考问题的方式. 那些原本就熟悉函数式编程的读者, 会发现本章的很多内容早已了然于胸, 但是即使他们, 也将会发现本章中有很多专属于<code>Mathematica</code>的新的知识, 而这些只是是对想写出高效<code>Mathematica</code>程序的人必不可少的.</p>
+
+<p>在这一章节中, 例子扮演了帮助理解材料的核心角色. 他们中的很多是用来演示一些基本的概念或微妙的细节的, 因为我坚信, 让人们更好地理解新想法的最好的方式, 就是举一些例子说明. 要完全理解这一章节, 读者最好尝试思考理解每一个例子, 当有注释存在的时候, 读者还需要特别留心. 此外有些例子确实看起来有些"故意为之"的感觉. 这是因为我们主要的目的是为了用最简单的方式演示语言的一些习惯用法.</p>
+
+<h3>核心高阶函数</h3>
+
+<h4>介绍</h4>
+
+<p>简单地说, <code>Mathematica</code>函数式编程(FP)指的是讲函数作用到<code>Mathematica</code>通常的表达式上. 一个重要的特例就是当被作用的表达式为列表(也就是说 <code>Head</code>为<code>List</code>), 在这一章中, 这其实也是我们主要的考察对象. 然而需要指出的是, 大多书关于<code>表</code>的函数式操作, 都可以平移到普通的表达式上.</p>
+
+<p>有两个给予 FP 强大的表现力的关键:</p>
+
+<ol>
+<li><p>函数可以把其他函数当作参数并在运行时以函数为返回值 (在 C 中我们也有函数指针). 返回的函数可以是纯粹意义上的函数, 也可以是带<code>模式</code>的函数. 后者在过程式语言中很难找到类比, 因为过程式语言中函数的定义通常在编译时就决定了.</p></li>
+<li><p><code>表</code>的组成元素可以是任意的表达式,可以是原子类型(例如数字, 字符串 或者符号), 也可以是通常的表达式. 特别的, 读者可以考察嵌套(<code>nested</code>) 的<code>表</code>, 它们可以被用来表示各式各样的数据结构. 这也意味着看似简单的<code>表</code>可以包含极其丰富的类型.</p></li>
+</ol>
+
+
+<p>我在这里稍微描述一下几个特定的函数式风格的特点, 以让读者能对它有大致的感受. 第一, <em>副作用</em> (例如变量的赋值) 在函数式风格中几乎看不见. 第二, 函数式风格中极少出现循环的使用. 当然对于后一点, <code>Mathematica</code>明令禁止, 只是我们很快就会看到, 我们有其他更自然的构造方式.</p>
+
+<p>以其他函数作为参数的函数, 我们叫做<code>高阶函数</code>. 在概念上, 有两个特别重要的高阶函数, <code>Map</code> 和 <code>Apply</code>. 在实践上, 这两个函数通常也是被最频繁使用的函数, 但是有一些不那么底层的操作也是非常有用的, 所以 <code>Mathematica</code> 也包含了其他的一些简单而有用的高阶函数.</p>
+
+<p>现在让我们来看一看一些最常用的内置的高阶函数吧, 我会用一些例子说明他们的用法. 因为这些函数是如此地基本和有用, 读者仅仅依靠他们就可以作出很多有意义的操作.</p>
+
+<h3><code>Map</code> 的最简单形式</h3>
+
+<p>作为两个"最基本"的内置高阶函数, <code>Map</code> 也可能是目前为止最常用的一个. 粗略地说, <code>Map</code> 就是 FP 版本的循环.</p>
+
+<p>在它的最简单的形式中, <code>Map</code> 使用两个参数: 一个单变量函数 (让我们记作 <code>f</code> ) 以及一个可以被<code>f</code> <em>map</em> 的表达式 <code>expr</code>. 如果 <code>expr</code> 是原子类型,那么它将被直接返回. 如果 <code>expr</code> 是一个<code>表</code> (或者是一个普通的表达式), 那么 <code>f</code> 被作用到它的每个元素上, 返回的结果是一个被作用后元素的表.</p>
+
+<h4>简单的例子</h4>
+
+<p>一些简单的例子:</p>
+
+<pre><code>Clear[f];
+Map[f, a]
+</code></pre>
+
+<p>$a$</p>
+
+<pre><code>Map[f, {a, b, c}]
+</code></pre>
+
+<p>$\{f[a], f[b], f[c]\}$</p>
+
+<p>上面的例子中,我们并没有给予 <code>f</code> 具体的定义, 让我们作如下定义:</p>
+
+<pre><code>f[x_] := x^2
+</code></pre>
+
+<p>现在我们有</p>
+
+<pre><code>Map[f, {a, b, c}]
+</code></pre>
+
+<p>$\{a<sup>2</sup>, b<sup>2</sup>, c<sup>2</sup>\}$</p>
+
+<pre><code>Map[f, a]
+</code></pre>
+
+<p>$a$</p>
+
+<h4><code>Map</code>是 FP 版本的循环</h4>
+
+<p>现在我们看看<code>Map</code>如何取代循环: 在"过程式"版本中, 我们有形如下面的代码:</p>
+
+<pre><code>Module[{i, len, expr, newexpr},
+    For[i = 1; expr = {a, b, c};
+        len = Length[expr]; newexpr = Table[0, {len}],
+        i &lt;= len, i++, newexpr[[i]] = f[expr[[i]]];
+    newexpr]
+</code></pre>
+
+<p>$\{a<sup>2</sup>, b<sup>2</sup>, c<sup>2</sup>\}$</p>
+
+<p>请读者注意, 我小心地用 <code>Module</code> 包裹我的代码, 以避免产生全局性的副作用.</p>
+
+<p>所以显而易见的, 我们可以看到 <code>Map</code> 的以下几点好处:</p>
+
+<ol>
+<li>无需引入辅助变量.</li>
+<li>无需事先知道<code>表</code>的长度.</li>
+<li>代码更加紧凑.</li>
+<li>在多数情况下我们的代码会更快 (当然, 这并不是显然的).</li>
+</ol>
+
+
+<p>实际执行过程中, <code>表</code> 的一个副本会被创建, 而所有的操作都只针对副本, 因此 原始的 <code>表</code> 的状态并不会改变.</p>
+
+<h4><code>Map</code> 中使用 <code>纯函数</code></h4>
+
+<p>我们重写上一个代码, 来演示如何在 <code>Map</code> 中使用 <code>纯函数</code>:</p>
+
+<pre><code>Map[#^2 &amp;, {a, b, c}]
+</code></pre>
+
+<p>$\{a<sup>2</sup>, b<sup>2</sup>, c<sup>2</sup>\}$</p>
+
+<p>在这个例子中, 我们连函数名都可以省略掉. 此外, 纯函数 (尤其是当和 <code>Map</code> 配合使用时) 通常比基于 <code>模式</code> 定义的函数更加高效, 因为连模式匹配的过程也省了. 但另一方面, 这也意味着对于无效的输入, 我们很难提供有效的保护措施, 这一点我们在之前的内容中也提到过.</p>
+
+<h4>符号表示 和 优先级</h4>
+
+<p>和许多操作一样, 对 <code>Map</code> 我们有简单的符号表示 - 符号 <code>/@</code> (slash-at). 用法遵循 <code>(function /@ expression)</code> 这样的形式. 例如:</p>
+
+<pre><code>(f /@ {a, b, c})
+</code></pre>
+
+<p>$\{a<sup>2</sup>, b<sup>2</sup>, c<sup>2</sup>\}$</p>
+
+<pre><code>(#^2&amp; /@ {a, b, c})
+</code></pre>
+
+<p>$\{a<sup>2</sup>, b<sup>2</sup>, c<sup>2</sup>\}$</p>
+
+<p>然而通常我们需要注意跟符号优先级相关的陷阱. 例如下面的例子: 我们想先把 <code>f</code> map 到给定的表上, 然后再对得到的表作平方操作. 我们希望能得到 $\{a<sup>4</sup>, b<sup>4</sup>, c<sup>4</sup>\}$, 但实际上:</p>
+
+<pre><code>#^2&amp; @ f /@ {a, b, c} 
+</code></pre>
+
+<p>$\{f<sup>2</sup>[a], f<sup>2</sup>[b], f<sup>2</sup>[c]\}$</p>
+
+<p>可以看到, 实际的执行过程是, 符号 <code>f</code> 被平方了, 然后整体地被 map 到了表上. 现在:</p>
+
+<pre><code>#^2&amp; @ ( f /@ {a, b, c} )
+</code></pre>
+
+<p>$\{a<sup>4</sup>, b<sup>4</sup>, c<sup>4</sup>\}$</p>
+
+<p>如果我们老老实实地使用 <code>Map</code> 函数名的话, 这一类问题几乎是不会出现的:</p>
+
+<pre><code>#^2&amp; @ Map[f, {a, b, c}]
+</code></pre>
+
+<p>$\{a<sup>4</sup>, b<sup>4</sup>, c<sup>4</sup>\}$</p>
+
+<p>此外, 原原本本地使用 <code>Map</code> 还有助于提高程序的可读性. 所以我的建议是, 读者还不到对简写符号的烂熟于心时候, 不要轻易去使用他们. 但是不得不承认, <code>/@</code> 在实践上确实比 <code>Map</code> 方便很多.</p>
+
+<h4>结合性</h4>
+
+<p><code>Map</code> 操作是<em>右结合</em> (right-associative) 的, 这意味着我们可以在下面的例子中省略括号:</p>
+
+<pre><code>g /@ g /@ {a, b, c}
+</code></pre>
+
+<p>$\{ g[g[a]], g[g[b]], g[g[c]]\}$</p>
+
+<pre><code>f /@ f /@ {a, b, c}
+</code></pre>
+
+<p>$\{a<sup>4</sup>, b<sup>4</sup>, c<sup>4</sup>\}$</p>
+
+<h4>更多例子</h4>
+
+<p>让我们现在考虑一些有趣的例子.
+下面的例子帮助我们创建深度为 $2$ 的表:</p>
+
+<pre><code>Map[Range, Range[4]]
+</code></pre>
+
+<p>$\{ \{1\}, \{ 1, 2 \}, \{1, 2, 3\} , \{1, 2, 3, 4\} \}$</p>
+
+<p>或者等价的</p>
+
+<pre><code>Range /@ Range[4]
+</code></pre>
+
+<p>$\{ \{1\}, \{ 1, 2 \}, \{1, 2, 3\} , \{1, 2, 3, 4\} \}$</p>
+
+<p>下面的例子接收一个表组成的表, 返回一个包含每个内部的表的首元素的表:</p>
+
+<pre><code>Map[First, { {a, b}, {c, d}, {e, f}, {g, h} }]
+</code></pre>
+
+<p>$\{a, c, e, g\}$</p>
+
+<p>以及这个例子:</p>
+
+<pre><code>Map[Subsets, { {a, b, c}, {d, e} }]
+</code></pre>
+
+<p>$\{ \{\{\}, \{a\}, \{b\}, \{c\}, \{a, b\}, \{a, c\}, \{b, c\}, \{a, b, c\} \},
+\{ \{\}, \{d\}, \{e\}, \{d, e\} \} \}$</p>
+
+<p>读者可以从前面的一系列例子中注意到, 那些需要循环的例子往往是用 <code>Map</code> 来实现的. 这本身并没有什么美妙的地方 - 真正美妙的地方在于, 既然我们在 <code>Map</code> 不需要变量和赋值, 那么我们也根本不需要担心它们. 比如说, 我们根本就不再需要作数组下标是否越界的检查. 另一个额外的好处是, <code>Map</code> 对表的操纵是整体性的, 它如何操纵表内的元素由它的内部实现去考虑, 相反的, 过程式地操纵表, 我们则需要"手动"地依次处理每个元素 - 这无疑将会是比较低效的, 这一点我们在之前就已经指出.</p>
+
+<h4>多元函数, 除一个参数外其余所有被固定</h4>
+
+<p>让我们考虑另外一种情况: 现在我们想 map 一个多元函数, 此函数除一个参数外其余所有参数都被固定. 例如:</p>
+
+<pre><code>Clear[f, a];
+f[x_, y_] := Sin[x + y];
+</code></pre>
+
+<p>我们想在固定 $y$ 的情形下把它 map 到表 $\{1, 2, 3, 4, 5 \}$. 也许最好的解决方案是利用内置函数 <code>Thread</code>. 但出于举例说明的目的, 我们看看能不能用 <code>Map</code> 做到这一点. 我们会在某个时候返回这个问题, 并用 <code>Thread</code> 给出解决方案.</p>
+
+<p>一种选择是, 定义一个辅助函数 <code>g</code>:</p>
+
+<pre><code>Clear[g];
+g[x_] := f[x, a];
+</code></pre>
+
+<p>现在:</p>
+
+<pre><code>Map[g, Range[5]]
+</code></pre>
+
+<p>$\{ Sin[1+a], Sin[2+a], Sin[3+a], Sin[4+a], Sin[5+a] \}$</p>
+
+<p>如果我们仅仅只是要解决这个问题, 专门定义一个 <code>g</code> 未免太浪费了, 因为我们无非之用了一次而已. 如果我们要多次使用 <code>g</code>, 一个潜在的危险是, 我们使用了一个全局的 <code>a</code> ( 考虑到 <code>a</code> 可能会在不同的地方被修改, 我们的程序将会出现非常隐蔽的错误 ). 这样一来, 使用纯函数应当会是一个更好的方案.</p>
+
+<pre><code>Map[f[#, a]&amp;, Range[5]]
+</code></pre>
+
+<p>$\{ Sin[1+a], Sin[2+a], Sin[3+a], Sin[4+a], Sin[5+a] \}$</p>
+
+<h2>编写高效程序: 技巧和应用</h2>
+
+<h2>附录</h2>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Quantile Problem in streaming model]]></title>
+		
+		<link href="http://xmerge.me/blog/2014/08/13/quantile-sketch/"/>
+		<updated>2014-08-13T20:55:04-04:00</updated>
+		<id>http://xmerge.me/blog/2014/08/13/quantile-sketch</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>I will give a deterministic approximation algorithm that constructs a data structure through a single pass of the a data stream, uses only $O(\log n / \epsilon)$ words space. For all $k$, such data structure is able to give a $(1 + \epsilon)$-approximation to the $k$th smallest item.</p>
+
+<p>Before starting to describe our algorithm, let&rsquo;s first clarify the model we use, and I will also recap some basic terminologies for those who are not familiar with streaming algorithms.</p>
+
+<h2>The Model</h2>
+
+<p>To make life easier, we only consider the most basic data stream model <strong>vanilla model</strong>. In such model, there will be a sequence of $m$ items, each item is an element among one of $1, 2, \ldots, n$.</p>
+
+<h2>Some Terms</h2>
+
+<p>We say $\hat{Q}$ is a $(1 + \epsilon)$-approximation to an positive real $Q$ if $|Q - \hat{Q}| &lt; \epsilon Q$.</p>
+
+<h2>The Problem</h2>
+
+<p>We slightly modified the classical Quantile Problem. In our setting, we want to design an algorithm which produces a data structure $\sigma$ via processing a data stream for only one pass. After the processing step, $\sigma$ is able to give $(1 + \epsilon)$-approximation to the $k$th smallest item (items may repeat) in the data stream, of course, $k$ is an integer and can be arbitrarily chosen from $[1, m]$. Our goal is to minimize the space needed to produce this $\sigma$ and in the meantime, the processing time per item should be as small as possible.</p>
+
+<h2>The Algorithm</h2>
+
+<p>The original idea is quite straightforward: we simply maintain a sequence of buckets. The $i$th bucket $B_i = ( ~(1 + \epsilon)^{(i-1)}, (1 + \epsilon)<sup>i</sup>~]$, and we also associate a counter $C_i$ to each $B_i$. It is clear that we can use $C_i$ to record how many items are trapped by the bucket $B_i$, through only one pass of the stream. Hence the sequence of $B_i$ is exactly the data structure $\sigma$ we need.</p>
+
+<p>Now let&rsquo;s consider how we can answer a query $k$. Here is the way:</p>
+
+<ul>
+<li> scan the counters $C_i$ with incremental index</li>
+<li> sum up all counters scanned until the total >= $k$</li>
+<li> suppose we stop at the index $i$, return the average of the interval $B_i$</li>
+</ul>
+
+
+<p>One can easily see that the returned value is a $(1 + \epsilon)$-approximation to the $k$th smallest item.</p>
+
+<h2>Performance Analysis</h2>
+
+<p>Now we give the space and time usage for above algorithm.</p>
+
+<h3>Space Usage</h3>
+
+<p>First, what is the space usage of the above algorithm? It is clear that the dominant space cost is the number of the buckets. Suppose we need at least $w$ buckets (hence the space usage will be bounded by $O(w)$), we need the following condition to ensure that we have enough buckets to cover all the items:</p>
+
+<blockquote><p>  $(1 + \epsilon)<sup>w</sup> = \Theta(n)$</p></blockquote>
+
+<p>It implies $w = \Theta(\frac{\log n}{\log (1 + \epsilon)}) \overset{\epsilon~\text{is small} }{=} \Theta(\frac{log n}{\epsilon})$ hence the space is bounded by $O(\log n / \epsilon)$.</p>
+
+<h3>Processing Time</h3>
+
+<p>Now we analyze the processing time per item. When a new item comes, the only thing we need to do is to locate the bucket that traps it, so that we can increment the corresponding counter. Suppose the item is $h$, then the index $i(h)$ of the corresponding bucket can be calculated by the formula:</p>
+
+<blockquote><p> $i(h) = \lceil \log h / \log (1 + \epsilon) \rceil$</p></blockquote>
+
+<p>Which shows the processing time per time is $O(1)$.</p>
+
+<h3>Query Time</h3>
+
+<p>We are also interested in the processing time per query. It is trivial to see that the time is bound by $O(\log n / \epsilon)$ since we can give the correct answer anyway by scan all the buckets/counters. However, if we are not working in dynamic data stream i.e. all queries are answered after we have completed the single pass over the data stream, we will have better solution. First we spend $O(log n / \epsilon)$ time to scan the buckets, and then it will cost only $O(\log \log n + \log \frac{1}{\epsilon})$ for each query. We leave the details to the reader.</p>
+
+<h2>Conclusion</h2>
+
+<p>An python implementation of our algorithm can be found in <a href="https://github.com/jiecchen/StreamLib/blob/master/streamlib/sketch/quantile.py">github</a> where they consider the <strong><em>Restrict Turnsitle Model</em></strong> which is  more general than our setting here. If the reader has some knowledge on <em>Sketch</em>, he will soon realize that our algorithm actually produces a linear mergable sketch, which is extremely useful in distributed computing. One can check the given <code>github</code> link to figure out how can two sketches be merged to one.</p>
+
+<p>This algorithm came to me when <a href="http://meng6.net">@meng6</a> asked the algorithm for Quantile Problem under streaming model, however, it is almost sure that such a straightforward algorithm should have been published in some paper long ago which I could not find.</p>
+
+<p>Anyway, I think a deterministic algorithm using only $O(\log n / \epsilon)$ space and $O(1)$ processing time should be near-optimal for our problem.</p>
+]]>
+		</content>
+	</entry>
+	
+</feed>

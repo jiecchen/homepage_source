@@ -6,4 +6,4 @@ comments: true
 sharing: true
 footer: true
 ---
-...
+[My Academic Homepage](http://homes.soic.indiana.edu/jiecchen/)
