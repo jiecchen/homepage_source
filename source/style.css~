@@ -1,0 +1,169 @@
+/*
+ * style.css - stylesheet for main document
+ *
+ * Florian <floriandejonckheere.be>
+ *
+ **/
+
+/* Workaround for fixed-width scrollbar problem */
+html {
+	overflow-y:scroll;
+}
+
+/*		Semantic elements		 */
+/* General structure of the page */
+body {
+	font:18px "Source Sans Pro";
+	max-width:700px;
+	margin-left:auto;
+	margin-right:auto;
+}
+nav {
+	padding:10px 35px 10px 35px;
+	font-size:15px;
+}
+section {
+	margin-top:35px;
+	padding:0 35px;
+	text-align:justify;
+}
+article {
+	margin-top:25px;
+	margin-left:auto;
+	margin-right:auto;
+	width:630px;
+}
+footer {
+	margin: 25px auto 50px auto;
+	text-align:center;
+	font-size:13px;
+}
+
+.text {
+	text-align:justify;
+	margin:auto 10px auto 10px;
+}
+
+
+
+
+/*			Markup elements			*/
+/*		Titels, subtitels, links	*/
+#title  {
+	font:65px "Open Sans";
+	margin-top:50px;
+	text-align:center;
+	cursor:pointer;
+}
+#loginBar {
+	height:25px;
+	padding-right:35px;
+}
+#login {
+	float:right;
+	font-size:12px;
+}
+#menuLinks {
+	float:right;
+}
+nav a {
+	margin:0 10px 0 10px;
+	text-decoration:none;
+}
+
+a {
+	color:black;
+	text-decoration:underline;
+}
+.codeTitle {
+	font-size:13px;
+	font-style:italic;
+	/* 560px (code/pre el) + 2 * 14 (no paddings) - 2 * 5 (paddings) = 578 */
+	width:578px;
+	margin:15px 10px;
+	margin-bottom:0;
+	padding:3px 5px;
+	border:1px solid #bbb;
+	border-bottom:0;
+	background-color:light-grey;
+}
+.codeLinks {
+	float:right;
+	font-size:10px;
+	font-style:normal;
+}
+code,pre {
+	display:block;
+	font-size:13px;
+	/* 610px (text element) - 2 * 10 (margins) - 2 * 14 (paddings) - 2 * 1 (borders) = 560 */
+	width:560px;
+	padding:14px;
+	margin:15px 10px;
+	margin-top:0;
+	border:1px solid #bbb;
+	text-align:left;
+	/* Overflowing content will be hidden, because when the scrollbar is hidden there's a padding where it should be, and we don't need that.
+	 * Instead, when the user hovers over the code, the scrollbar will be shown (if applicable). <EXPERIMENTAL FEATURE>
+	 *  */
+	overflow-x:hidden;
+	overflow-y:auto;
+}
+code:hover, pre:hover {
+	overflow-x:auto;
+}
+.latex {
+	text-align:center;
+}
+img {
+	vertical-align:middle;
+	border:0;
+}
+.icon {
+	margin-right:5px;
+}
+
+ul {
+	padding-left:15px;
+	list-style:none;
+}
+ul span {
+	margin-left:12px;
+}
+li {
+	margin-bottom:5px;
+}
+/* Standard li style: enumeration. Define other styles by using class="link" or class="download" on the ul element. */
+li:before {
+	font-family: 'FontAwesome';
+	font-size:16px;
+	content: "\f054"; /* icon-chevron-right */
+	margin:0 5px 0 -15px;
+}
+.link:before {
+	content: "\f0c1"; /* icon-link */
+}
+.download:before {
+	content: "\f019"; /* icon-download-alt */
+}
+
+
+.timestamp {
+	float: right;
+	font-size: 12px;
+}
+
+h1 {
+	margin-bottom:10px;
+	font:30px "Open Sans";
+}
+h2 {
+	margin-top:10px;
+	font:23px "Open Sans";
+	font-weight:300;
+}
+h3 {
+	margin-top:15px;
+	font:18px "Open Sans";
+	font-weight:300;
+}
+
