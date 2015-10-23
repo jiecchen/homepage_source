@@ -6,4 +6,12 @@ comments: true
 sharing: true
 footer: true
 ---
-[My Academic Homepage](http://homes.soic.indiana.edu/jiecchen/)
+## Contact
++ [Email](chenjiecao@gmail.com)
++ Skype-ID: chenjiecao
+
+## List of Pages
++ [Academic Homepage](http://homes.soic.indiana.edu/jiecchen/)
++ [Github](https://github.com/jiecchen)
++ [Facebook](https://www.facebook.com/jiecao.chen)
++ What else?

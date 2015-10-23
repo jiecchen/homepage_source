@@ -3,6 +3,7 @@ layout: post
 title: "CSCI B503 Algorithm Design and Analysis"
 date: 2014-10-25 15:31:25 -0400
 comments: true
+published: false
 categories: [Algorithm, CS, teaching]
 ---
 I am the associated instructor (generally known as TA) for *CSCI B503 Algorithm Design and Analysis*, instructed by professor Funda Ergun. Course page can be found [here](http://homes.soic.indiana.edu/fergun/TEACHING/FA14/503.html).

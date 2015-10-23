@@ -10,9 +10,12 @@ footer: true
 ## List of Projects
 
 <!-- * CN Version [MMA Programming - An Advanced Intro]({% post_url 2014-08-19-mma-advanced %}) -->
-* Python Library for Streaming Algorithms [github](https://github.com/jiecchen/StreamLib)
-* StreamingCC: A C++ Library for Summarizing Data Streams [github](https://github.com/jiecchen/StreamingCC)
-
+* Python Library for Streaming Algorithms
+  - [github](https://github.com/jiecchen/StreamLib)
+  - [docs](/StreamLib)
+* StreamingCC: A C++ Library for Summarizing Data Streams
+  - [github](https://github.com/jiecchen/StreamingCC)
+  - [docs](/StreamingCC)
 
 ## Papers
 Check out my [research page](http://homes.soic.indiana.edu/jiecchen/research.html).
