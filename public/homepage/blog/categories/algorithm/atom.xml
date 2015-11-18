@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Algorithm | Mind Recorder]]></title>
   <link href="http://xmerge.me/blog/categories/algorithm/atom.xml" rel="self"/>
   <link href="http://xmerge.me/"/>
-  <updated>2015-10-23T03:02:31-04:00</updated>
+  <updated>2015-11-03T15:17:15-05:00</updated>
   <id>http://xmerge.me/</id>
   <author>
     <name><![CDATA[xmerge]]></name>
@@ -12,28 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[CSCI B503 Algorithm Design and Analysis]]></title>
-    <link href="http://xmerge.me/blog/2014/10/25/teaching-b503/"/>
-    <updated>2014-10-25T15:31:25-04:00</updated>
-    <id>http://xmerge.me/blog/2014/10/25/teaching-b503</id>
-    <content type="html"><![CDATA[<p>I am the associated instructor (generally known as TA) for <em>CSCI B503 Algorithm Design and Analysis</em>, instructed by professor Funda Ergun. Course page can be found <a href="http://homes.soic.indiana.edu/fergun/TEACHING/FA14/503.html">here</a>.</p>
-
-<p>This course intends to be a graduate level course but is relatively easy compared with the algorithm course I took when I was an undergrad.</p>
-
-<p>Homework assignments and the solutions I compiled for this course will be posed in this page.</p>
-
-<h2 id="assignments-and-solutions">Assignments and Solutions</h2>
-
-<ul>
-  <li><a href="/resources/B503/hw1.pdf">Assignment 1</a>, <a href="/resources/B503/solution_1.pdf">Solution</a></li>
-  <li><a href="/resources/B503/hw2.pdf">Assignment 2</a>, <a href="/resources/B503/solution_2.pdf">Solution</a></li>
-  <li><a href="/resources/B503/hw3.pdf">Assignment 3</a>, <a href="/resources/B503/solution_3.pdf">Solution</a></li>
-  <li><a href="/resources/B503/hw4.pdf">Assignment 4</a>, <a href="/resources/B503/solution_4.pdf">Solution</a></li>
-</ul>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Quantile Problem in Streaming Model]]></title>
